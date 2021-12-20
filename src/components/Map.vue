@@ -21,7 +21,7 @@ export default {
     const mapRef = ref(null);
 
     const loader = new Loader({
-      apiKey: "AIzaSyBbfLKsQjWdalGH2i6Eqn5RoIBW_dn5fJo",
+      apiKey: "APIKEY",
     });
 
     onMounted(async () => {
